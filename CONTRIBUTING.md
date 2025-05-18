@@ -26,10 +26,15 @@ This will:
 
 - Generate/update the CHANGELOG.md file
 
+## Committing
+
+After applying the changeset, remember to commit the changes.
+
 ## Releasing
 
-Releases are handled automatically via CI when a new Git tag is pushed. Changeset generates the tag automatically, so make sure to push it:
+Releases are handled automatically via CI when a new Git tag is pushed. In order to create a tag run:
 
 ```sh
+git tag vX.Y.Z
 git push --tag
 ```

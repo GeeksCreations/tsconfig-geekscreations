@@ -16,8 +16,7 @@
     "node": ">=20"
   },
   "scripts": {
-    "version": "changeset version",
-    "release": "changeset publish"
+    "version": "changeset version"
   },
   "files": [
     "tsconfig.json",
