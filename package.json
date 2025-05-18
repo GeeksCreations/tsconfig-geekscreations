@@ -1,0 +1,37 @@
+{
+  "name": "@geekscreations/tsconfig",
+  "version": "0.0.1",
+  "description": "Shared TypeScript config",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeeksCreations/tsconfig-geekscreations.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "tsconfig.json",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "version": "changeset version",
+    "release": "changeset publish"
+  },
+  "files": [
+    "tsconfig.json",
+    "tsconfig-react.json",
+    "tsconfig-next.json",
+    "tsconfig-nest.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ],
+  "devDependencies": {
+    "@changesets/cli": "^2.26.1"
+  }
+}
