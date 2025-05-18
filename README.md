@@ -13,7 +13,7 @@ npm install -D @geekscreations/tsconfig
 Add to your `tsconfig.json`:
 
 ```json
-"extends": "@c/tsconfig/tsconfig.json"
+"extends": "@geekscreations/tsconfig/tsconfig.json"
 ```
 
 ## tsconfig React.js
