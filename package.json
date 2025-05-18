@@ -7,6 +7,7 @@
     "type": "git",
     "url": "git+https://github.com/GeeksCreations/tsconfig-geekscreations.git"
   },
+  "author": "GeeksCreations <dev@geekscreations.com>",
   "publishConfig": {
     "access": "public"
   },
