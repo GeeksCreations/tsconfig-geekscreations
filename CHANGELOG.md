@@ -1,5 +1,11 @@
 # @geekscreations/tsconfig
 
+## 0.1.3
+
+### Patch Changes
+
+- Updates README.md
+
 ## 0.1.2
 
 ### Patch Changes

@@ -1,4 +1,4 @@
-# tsconfig-geekscreations
+# @geekscreations/tsconfig
 
 Shared TypeScript config
 
