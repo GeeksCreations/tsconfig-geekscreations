@@ -26,9 +26,16 @@ This will:
 
 - Generate/update the CHANGELOG.md file
 
+## Building
+
+After applying the changesets, run the following to make sure everything is up to date and working:
+```sh
+npm install
+```
+
 ## Committing
 
-After applying the changeset, remember to commit the changes.
+Once the build completes successfully, you can commit the changes.
 
 ## Releasing
 
