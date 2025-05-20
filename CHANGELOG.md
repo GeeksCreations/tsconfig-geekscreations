@@ -1,5 +1,11 @@
 # @geekscreations/tsconfig
 
+## 0.1.4
+
+### Patch Changes
+
+- Updates nestjs tsconfig
+
 ## 0.1.3
 
 ### Patch Changes
