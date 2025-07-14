@@ -18,7 +18,9 @@
     "strictPropertyInitialization": true,
     "strictFunctionTypes": true,
     "strictBindCallApply": true,
+    // Eslint takes care of unused variables
     "noUnusedLocals": false,
-    "noUnusedParameters": true,
+    // Eslint takes care of unused parameters
+    "noUnusedParameters": false,
   }
 }
